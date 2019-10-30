@@ -1,7 +1,18 @@
 # iPhoneOSDeviceSupport
-Xcode iPhoneOS DeviceSupport (6.0 - 13.1 (17A5821e))
+Xcode iPhoneOS DeviceSupport (6.0 - 13.2)
 
-Device Support files for Xcode, from iOS 6, up to 13.1 (17A5821e).
+**Latest releases:**</br>
+
+**iOS 13.1** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.1.zip) </br>
+**iOS 13.2** - [Download](https://github.com/filsv/iPhoneOSDeviceSupport/raw/master/13.2.zip)
+
+👇👇👇👇👇
+</br>
+</br>
+**To get iOS 13.1 (version) works try to rename a folder from this "13.1 (17A5821e)" to "13.1 (needed version)" eg. "13.1 (17A5844a)".
+The same for iOS 13.2 (version).**
+
+Device Support files for Xcode, from iOS 6, up to 13.2.
 
 How to:
 
